@@ -1,2 +1,5 @@
 # cyrillic-guesser
-Learn cyrillic sounds!
+Learn cyrillic's signs!
+
+## TRY
+https://walorson.github.io/teaching-cyrillic
